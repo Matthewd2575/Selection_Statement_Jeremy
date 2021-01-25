@@ -1,0 +1,13 @@
+C:\Users\Test\source\repos\Selection Statement (Jeremy)\Selection Statement (Jeremy)\obj\Debug\netcoreapp3.1\Selection Statement (Jeremy).csprojAssemblyReference.cache
+C:\Users\Test\source\repos\Selection Statement (Jeremy)\Selection Statement (Jeremy)\obj\Debug\netcoreapp3.1\Selection Statement (Jeremy).AssemblyInfoInputs.cache
+C:\Users\Test\source\repos\Selection Statement (Jeremy)\Selection Statement (Jeremy)\obj\Debug\netcoreapp3.1\Selection Statement (Jeremy).AssemblyInfo.cs
+C:\Users\Test\source\repos\Selection Statement (Jeremy)\Selection Statement (Jeremy)\obj\Debug\netcoreapp3.1\Selection Statement (Jeremy).csproj.CoreCompileInputs.cache
+C:\Users\Test\source\repos\Selection Statement (Jeremy)\Selection Statement (Jeremy)\bin\Debug\netcoreapp3.1\Selection Statement (Jeremy).exe
+C:\Users\Test\source\repos\Selection Statement (Jeremy)\Selection Statement (Jeremy)\bin\Debug\netcoreapp3.1\Selection Statement (Jeremy).deps.json
+C:\Users\Test\source\repos\Selection Statement (Jeremy)\Selection Statement (Jeremy)\bin\Debug\netcoreapp3.1\Selection Statement (Jeremy).runtimeconfig.json
+C:\Users\Test\source\repos\Selection Statement (Jeremy)\Selection Statement (Jeremy)\bin\Debug\netcoreapp3.1\Selection Statement (Jeremy).runtimeconfig.dev.json
+C:\Users\Test\source\repos\Selection Statement (Jeremy)\Selection Statement (Jeremy)\bin\Debug\netcoreapp3.1\Selection Statement (Jeremy).dll
+C:\Users\Test\source\repos\Selection Statement (Jeremy)\Selection Statement (Jeremy)\bin\Debug\netcoreapp3.1\Selection Statement (Jeremy).pdb
+C:\Users\Test\source\repos\Selection Statement (Jeremy)\Selection Statement (Jeremy)\obj\Debug\netcoreapp3.1\Selection Statement (Jeremy).dll
+C:\Users\Test\source\repos\Selection Statement (Jeremy)\Selection Statement (Jeremy)\obj\Debug\netcoreapp3.1\Selection Statement (Jeremy).pdb
+C:\Users\Test\source\repos\Selection Statement (Jeremy)\Selection Statement (Jeremy)\obj\Debug\netcoreapp3.1\Selection Statement (Jeremy).genruntimeconfig.cache
