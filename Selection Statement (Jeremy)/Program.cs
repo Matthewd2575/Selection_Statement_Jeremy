@@ -6,6 +6,7 @@ namespace Selection_Statement__Jeremy_
     {
         static void Main(string[] args)
         {
+            var gitExample = "test";
             var r = new Random();
             var favNumber = r.Next(1, 1000);
 

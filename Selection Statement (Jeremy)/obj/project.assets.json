@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Test\\source\\repos\\Selection Statement (Jeremy)\\Selection Statement (Jeremy)\\Selection Statement (Jeremy).csproj",
+      "projectUniqueName": "C:\\Users\\Test\\repos\\Selection Statement (Jeremy)\\Selection Statement (Jeremy)\\Selection Statement (Jeremy).csproj",
       "projectName": "Selection Statement (Jeremy)",
-      "projectPath": "C:\\Users\\Test\\source\\repos\\Selection Statement (Jeremy)\\Selection Statement (Jeremy)\\Selection Statement (Jeremy).csproj",
+      "projectPath": "C:\\Users\\Test\\repos\\Selection Statement (Jeremy)\\Selection Statement (Jeremy)\\Selection Statement (Jeremy).csproj",
       "packagesPath": "C:\\Users\\Test\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Test\\source\\repos\\Selection Statement (Jeremy)\\Selection Statement (Jeremy)\\obj\\",
+      "outputPath": "C:\\Users\\Test\\repos\\Selection Statement (Jeremy)\\Selection Statement (Jeremy)\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Test\\AppData\\Roaming\\NuGet\\NuGet.Config",
